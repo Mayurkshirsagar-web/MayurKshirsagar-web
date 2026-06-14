@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, Dear Visitor! 👋
 
-<!--
-**Mayurkshirsagar-web/MayurKshirsagar-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mayur**, a first-year student at **NIT Durgapur, India**.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Beginner programmer and computer science enthusiast.
+- Enjoy building simple projects that are useful in everyday life.
+- Interested in solving **Competitive Programming** problems and improving problem-solving skills.
+
+## Technologies I Know
+
+- C
+- C++
+- JavaScript (Basic)
+- Tailwind CSS
+
+## Projects
+
+I'm still at the beginning of my journey, but feel free to check out my projects and see what I'm working on.
+
+Thanks for visiting my profile!
