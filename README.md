@@ -1,6 +1,6 @@
 # Hello, Dear Visitor! 👋
 
-I'm **Mayur**, a first-year CSE student at **NIT Durgapur, India**.
+I'm **Mayur**, first-year CSE student at **NIT Durgapur, India**.
 
 ## 💫 About Me
 
